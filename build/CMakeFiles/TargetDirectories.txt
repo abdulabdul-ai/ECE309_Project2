@@ -1,4 +1,0 @@
-/mnt/c/Users/mabdu/OneDrive/Desktop/NCSU/2026-2027/Fall 2026/ECE 309/Project 2/build/CMakeFiles/miniharness.dir
-/mnt/c/Users/mabdu/OneDrive/Desktop/NCSU/2026-2027/Fall 2026/ECE 309/Project 2/build/CMakeFiles/test_p2.dir
-/mnt/c/Users/mabdu/OneDrive/Desktop/NCSU/2026-2027/Fall 2026/ECE 309/Project 2/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/mabdu/OneDrive/Desktop/NCSU/2026-2027/Fall 2026/ECE 309/Project 2/build/CMakeFiles/rebuild_cache.dir
